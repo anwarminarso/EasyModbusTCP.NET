@@ -5,6 +5,16 @@
     <AssemblyName>EasyModbus</AssemblyName>
     <RootNamespace>EasyModbus</RootNamespace>
     <SignAssembly>false</SignAssembly>
+
+    <Nullable>disable</Nullable>
+    <!--<ImplicitUsings>enable</ImplicitUsings>-->
+    <RunAnalyzersDuringBuild>False</RunAnalyzersDuringBuild>
+    <RunAnalyzersDuringLiveAnalysis>False</RunAnalyzersDuringLiveAnalysis>
+    <EnableNETAnalyzers>False</EnableNETAnalyzers>
+    
+    
+    <DefineConstants>COMMERCIAL</DefineConstants>
+    
   </PropertyGroup>
 
 
